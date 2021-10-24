@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pract4</string>
+    <string-array name="tuners">
+        <item>supraa</item>
+        <item>evo</item>
+        <item>gtr</item>
+        <item>mazda</item>
+        <item>nsx</item>
+        <item>subaru</item>
+    </string-array>
+</resources>

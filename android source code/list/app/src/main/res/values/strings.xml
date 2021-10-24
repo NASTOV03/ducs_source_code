@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pract6</string>
+    <string-array name="Course">
+        <item name="i1">BSC.(HONS.) BOTANY</item>
+        <item name="i2">BSC.(HONS.) FOOD TECHNOLOGY</item>
+        <item name="i3">BSC.(HONS.) COMPUTER SCIENCE</item>
+        <item name="i4">BSC.(HONS.) CHEMISTRY</item> <item name="i5">BSC.(HONS.) ZOOLOGY</item> <item name="i6">BSC.(HONS.) PHYSICS</item>
+    </string-array>
+
+</resources>
